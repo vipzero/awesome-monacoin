@@ -12,6 +12,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ---
 
+
 ## Tutorials
 
 *モナコイン入門*
@@ -24,6 +25,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [モナパレット](https://monapalette.komikikaku.com/) - モナコイン＋Monapartyの超高機能総合エンタテイメントウォレット 
   * [Mpurseエクステ](https://mpurse-extension.komikikaku.com/) - モナコイン＋Monapartyウォレット
   * [モナパレット - アドレス帳](https://monapalette.komikikaku.com/addrbook) - アドレス帳
+* [Monappy \| Monacoinポータル＆ウォレット](https://monappy.jp/) - オンラインウォレット・ポータルサイト
+
 
 ## Service
 
@@ -32,6 +35,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Ask Mona 3\.0](https://web3.askmona.org/) - コメントに投げ銭が出来る掲示板
 * [モナレッジ](https://monaledge.com/) - 投げ銭が出来るブログ
 * [ほしいMONAリスト](https://monalist.komikikaku.com/) - モナコインで欲しい物リスト管理やクラウドファンディングができるツール
+
+## Development
+
+* [Trezor Monacoin Explorer](https://blockbook.electrum-mona.org/) - Transaction 履歴
+* [Monaparty Blockchain Explorer](https://mpchain.info/)
 
 ## Monaparty
 
