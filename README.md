@@ -15,10 +15,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Tutorials
 
 *モナコイン入門*
+* [モナパレット クイックスタートガイド \- すなぎもメモ](https://anipopina.hateblo.jp/entry/monapalette-quickstart-guide)
 
 ## Wallet
 
 *モナコインウォレット*
+
+* [モナパレット](https://monapalette.komikikaku.com/) - モナコイン＋Monapartyの超高機能総合エンタテイメントウォレット 
+  * [Mpurseエクステ](https://mpurse-extension.komikikaku.com/) - モナコイン＋Monapartyウォレット
+  * [モナパレット - アドレス帳](https://monapalette.komikikaku.com/addrbook) - アドレス帳
 
 ## Service
 
@@ -26,6 +31,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Ask Mona 3\.0](https://web3.askmona.org/) - 簡単にMONAをやり取りすることができる掲示板
 * [モナレッジ](https://monaledge.com/) - モナコインで投げ銭が出来るブログ
+* [ほしいMONAリスト](https://monalist.komikikaku.com/) - MONAで欲しい物リスト管理やクラウドファンディングができるツール
 
 ## Monaparty
 
@@ -37,16 +43,17 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   * [モナパちゃんさん \(@monapachan\) / Twitter](https://twitter.com/monapachan) Twitter上でMonapartyトークンのやりとりをお手伝いしてくれるモナパちゃん
   * [モナパちゃんポータル](https://monapachan.komikikaku.com/) - モナパちゃんに管理されているポータル
 * オダイロイド - Twitter上でモナコインなどの暗号通貨/仮想通貨を賞金としたオダイを投稿したり、こたえたりできるサービス
-  * [オダイロイド１号さん \(@odairoid\_001\) / Twitter](https://twitter.com/odairoid_001) - 
+  * [オダイロイド１号さん \(@odairoid\_001\) / Twitter](https://twitter.com/odairoid_001) - 本体のbot
   * [オダイロイドポータル](https://odairoid.komikikaku.com/) - オダイリストなどオダイロイドのポータル
+* [モナキャラット](https://monacharat.komikikaku.com/) - 1日に1匹発行される Monaparty NFT
+
 
 # Contributing
 
-welcome
+[contribution guidelines](./CONTRIBUTING.md) に沿って貢献できます。
+
 
 <!--
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
-
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](./pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
 -->
 - - -
