@@ -47,6 +47,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * MonaCard
   * [Monacard](https://card.mona.jp/) - Monapartyトークンをカード化したりカードのように表示するサービス
 * モナパちゃん
+  * [モナパちゃんの使い方 \| モナキュレーション](https://monacuration.com/english-how-to-monapachan/) - 使い方
   * [モナパちゃんさん \(@monapachan\) / Twitter](https://twitter.com/monapachan) Twitter上でMonapartyトークンのやりとりをお手伝いしてくれるモナパちゃん
   * [モナパちゃんポータル](https://monapachan.komikikaku.com/) - モナパちゃんに管理されているポータル
 * オダイロイド - Twitter上でモナコインなどの暗号通貨/仮想通貨を賞金としたオダイを投稿したり、こたえたりできるサービス
