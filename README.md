@@ -66,4 +66,4 @@ I will keep some pull requests open if I'm not sure whether those libraries are 
 -->
 - - -
 
-意見や質問がある場合は気軽に [@vip_a_no](https://twitter.com/vip_a_no) や GitHub [issue](./issues) からコンタクトしてください.
+意見や質問がある場合は気軽に [@vip_a_no](https://twitter.com/vip_a_no) や GitHub [issue](https://github.com/vipzero/awesome-monacoin/issues) からコンタクトしてください.
