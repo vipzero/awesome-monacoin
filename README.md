@@ -58,7 +58,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 # Contributing
 
-[contribution guidelines](./CONTRIBUTING.md) に沿って貢献できます。
+[contribution guidelines](./CONTRIBUTING-ja.md) に沿って貢献できます。
 
 
 <!--
@@ -66,4 +66,4 @@ I will keep some pull requests open if I'm not sure whether those libraries are 
 -->
 - - -
 
-If you have any question about this opinionated list, do not hesitate to contact me [@vip_a_no](https://twitter.com/vip_a_no) on Twitter or open an issue on GitHub.
+意見や質問がある場合は気軽に [@vip_a_no](https://twitter.com/vip_a_no) や GitHub [issue](./issues) からコンタクトしてください.
