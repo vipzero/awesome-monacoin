@@ -19,4 +19,4 @@
 
 穏やかな注意: **自分自身のプロジェクトは提出しないでください. 代わりに、誰かがそれが役に立つと思ってあなたのためにそれを提出するのを待ってください.**
 
-translated of CONTRIBUTING.md
+translated of [contribution guidelines](./CONTRIBUTING-ja.md)
